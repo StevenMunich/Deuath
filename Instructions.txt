@@ -1,0 +1,7 @@
+If you have to reset the interpretter configurations
+
+1. Delete the venv folder
+2. Settings -> python interpreter -> Add -> add local interpreter
+3. Virtual enviorment(new)
+4. terminal
+5. pip install scapy
